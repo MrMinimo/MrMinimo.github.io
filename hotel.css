@@ -37,6 +37,12 @@ font-family: 'Bree Serif', serif;
 
 }
 
+.bilder{
+  columns: 1;
+  width: 100%;
+
+}
+
 
 
 .Wrapper > div{
