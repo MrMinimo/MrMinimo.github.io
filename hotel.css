@@ -8,7 +8,7 @@ font-family: 'Bree Serif', serif;
 
 .Wrapper{
   display: grid;
-  grid-template-columns: 70% 30%;
+  grid-template-columns: 69% 30% auto;
 
 }
 .informationen{
