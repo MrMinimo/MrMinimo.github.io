@@ -1,0 +1,98 @@
+body{
+background-color: #B4DFEF;
+grid-template-columns: 60% 40%;
+grid-template-rows: 70% 30%;
+font-family: 'Bree Serif', serif;
+
+}
+
+.Wrapper{
+  display: grid;
+  grid-template-columns: 70% 30%;
+
+}
+.informationen{
+
+}
+
+.email{
+  padding: 4% 4% 4% 4%;
+  margin-left: 2%;
+  margin-bottom: 5%;
+  margin-top: 10%;
+
+
+}
+.email2{
+  padding: 4% 4% 4% 4%;
+  margin-left: 6%;
+  margin-bottom: 5%;
+  margin-top: 10%;
+}
+  .email3{
+    padding: 4% 4% 4% 4%;
+    margin-left: 2%;
+    margin-bottom: 5%;
+    margin-top: 10%;
+
+}
+
+
+
+.Wrapper > div{
+  padding-top:4%;
+  padding-left: 2%;
+  background-color:#B4DFEF;
+
+}
+.bild{
+  width: 90%;
+
+
+}
+
+.bild1{
+  grid-column-start: 1;
+  grid-column-end: 2;
+}
+
+
+.links a{
+  background-color:#055574;
+  padding: 3%;
+  color: black;
+  text-transform: uppercase;
+
+
+}
+.links{
+  background-color:#055574;
+  padding: 3%;
+  width: 100%;
+  clear: both;
+}
+
+.under{
+  padding: 3% 0% 3%;
+  background-color: #B4DFEF;
+}
+
+.links a:hover
+{
+background-color:#B4DFEF;
+}
+
+.bil122{
+width: 60%;
+height: auto;
+}
+
+
+
+
+.karta {
+  max-height: 100px;
+  min-height: 400px;
+height: 400px;
+width: 100%;
+}
