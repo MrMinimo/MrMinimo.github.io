@@ -46,15 +46,15 @@ font-family: 'Bree Serif', serif;
 
 }
 .bild{
-  width: 90%;
-  width: 90%;
-  padding-right: 3%;
+  width: 90%
 
 }
 
 .bild1{
   grid-column-start: 1;
   grid-column-end: 2;
+  width: 90%;
+  padding-right: 3%;
 }
 .bild12{
   grid-column-start: 1;
