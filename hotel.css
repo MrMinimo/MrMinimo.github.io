@@ -68,13 +68,15 @@ font-family: 'Bree Serif', serif;
 .links{
   background-color:#055574;
   padding: 3%;
-  width: 100%;
+  width: 93%;
   clear: both;
 }
 
 .under{
   padding: 3% 0% 3%;
   background-color: #B4DFEF;
+  font-size: 25px;
+
 }
 
 .links a:hover
