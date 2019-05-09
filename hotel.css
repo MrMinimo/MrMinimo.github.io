@@ -58,7 +58,8 @@ font-family: 'Bree Serif', serif;
 .bild12{
   grid-column-start: 1;
   grid-column-end: 2;
-  width: 93%;
+  width: 90%;
+  padding-right: 3%;
 }
 
 
