@@ -55,6 +55,11 @@ font-family: 'Bree Serif', serif;
   grid-column-start: 1;
   grid-column-end: 2;
 }
+.bild12{
+  grid-column-start: 1;
+  grid-column-end: 2;
+  width: 93%;
+}
 
 
 .links a{
